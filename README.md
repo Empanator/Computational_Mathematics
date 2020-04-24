@@ -1,1 +1,1 @@
-# To view Plotly plots and see the latex format correctly you need to paste the github repository on this website: https://nbviewer.jupyter.org/
+# To view the Plotly plot you need acess this website: https://plotly.com/~Empanator/9.embed
