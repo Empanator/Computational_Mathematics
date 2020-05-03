@@ -5,4 +5,4 @@
 # To view the definite integral plot. Acess this website: https://plotly.com/~Empanator/79.embed
 
 # The linear regression notebook is based on a video that uses R language: https://www.youtube.com/watch?v=u1cc1r_Y7M0 
-# To view the plot. Acess this website: https://plotly.com/~Empanator/134.embed
+# To view the linear regression plot. Acess this website: https://plotly.com/~Empanator/134.embed
