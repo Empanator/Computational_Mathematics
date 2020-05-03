@@ -1,4 +1,4 @@
-# To view with the correct Latex format you need to acess this website: https://nbviewer.jupyter.org/ and paste either the repository or the jupyter notebook link.
+# To view Latex format correctly. Access this website: https://nbviewer.jupyter.org/ and paste either the repository or the jupyter notebook link.
 
 # To view the differetiation plot. Acess this website: https://plotly.com/~Empanator/19.embed
 
